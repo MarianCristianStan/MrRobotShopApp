@@ -9,8 +9,8 @@
    ViewData["Title"] = "Home";
    Layout = null;
 	var searchQuery = ViewBag.searchQuery as string;
-   var selectedCategory = ViewBag.SelectedCategory as string;
-   var categories = ViewBag.Categories as IEnumerable<string>;
+    var selectedCategory = ViewBag.SelectedCategory as string;
+    var categories = ViewBag.Categories as IEnumerable<string>;
 	var isSpecSearch = ViewBag.IsSpecSearch as bool? ?? false;
 	var specResults = ViewBag.SpecResults as IEnumerable<SearchResult>;
 	var sortOrder = ViewBag.SortOrder as string ?? "desc";
@@ -37,7 +37,7 @@
 
 		<header class="header-nav">
 			<a href="@Url.Action("Index", "Home")" class="logo">
-				<img src="@Url.Content("~/assets/mr_robot_logo.webp")" alt="Mr. Robot Logo"/>
+				<img src="@Url.Content("~/assets/mr_robot_logo.webp")" alt="Mr Robot Logo"/>
 			</a>
 
 			<nav class="navbar">
