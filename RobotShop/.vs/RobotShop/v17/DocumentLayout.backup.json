@@ -30,15 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T12:47:39.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:47:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAwwG8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SearchController.cs",
-              "DocumentMoniker": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Controllers\\SearchController.cs",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
-              "ToolTip": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Controllers\\SearchController.cs",
               "RelativeToolTip": "Controllers\\SearchController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,23 +85,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T18:14:37.142Z"
+              "WhenOpened": "2025-03-30T18:14:37.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "search.js",
-              "DocumentMoniker": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\wwwroot\\js\\search.js",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\wwwroot\\js\\search.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\search.js",
-              "ToolTip": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\wwwroot\\js\\search.js",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\wwwroot\\js\\search.js",
               "RelativeToolTip": "wwwroot\\js\\search.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -83,16 +110,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "searchMode.js",
-              "DocumentMoniker": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\wwwroot\\js\\searchMode.js",
+              "DocumentMoniker": "C:\\Santiago\\study\\MrRobot\\RobotShop\\wwwroot\\js\\searchMode.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\searchMode.js",
-              "ToolTip": "C:\\Users\\smari\\Desktop\\MrRobot_RI\\RobotShop\\wwwroot\\js\\searchMode.js",
+              "ToolTip": "C:\\Santiago\\study\\MrRobot\\RobotShop\\wwwroot\\js\\searchMode.js",
               "RelativeToolTip": "wwwroot\\js\\searchMode.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-30T18:14:04.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T18:14:04.297Z"
             }
           ]
         }
