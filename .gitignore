@@ -31,13 +31,23 @@ bld/
 *.VC.VC.opendb
 
 ## =========================
-## GitHub Copilot (source of your errors)
+## GitHub Copilot 
 ## =========================
 CopilotIndices/
 **/CopilotIndices/
 *.db
 *.db-shm
 *.db-wal
+
+## =========================
+## Lucene / Search indexes 
+## =========================
+LuceneIndex/
+**/LuceneIndex/
+*.cfs
+*.cfe
+*.si
+segments_*
 
 ## =========================
 ## .NET Core / SDK
