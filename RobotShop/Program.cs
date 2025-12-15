@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddProjectServices(builder.Configuration);
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+var app = builder.Buildzz();
 
 
 if (!app.Environment.IsDevelopment())
