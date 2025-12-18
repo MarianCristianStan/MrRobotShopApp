@@ -31,7 +31,7 @@ app.MapControllerRoute(
 
 app.MapRazorPages();
 
-await SeedRoles(app);
+//await SeedRoles(app);
 
 app.Run();
 
